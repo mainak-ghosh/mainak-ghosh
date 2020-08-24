@@ -2,7 +2,7 @@
 ### Hi there I'm Mainak 👋
 
 - 🔭 I’m currently working on Autoencoders
-- 🌱 and currently learning about Neural Networks.
+- 🌱 and learning about Neural Networks.
 - 👯 I’m looking to collaborate on machine learning project.
 - 💬 Ask me about animes!
 
