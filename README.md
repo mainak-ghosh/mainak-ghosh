@@ -1,8 +1,8 @@
 
 ### Hi there I'm Mainak 👋
 
-- 🔭 I’m currently working on Autoencoders
-- 🌱 and learning about Neural Networks.
+- 🔭 I’m currently working on Augmented Realily
+- 🌱 and Deep Learning integrations in AR.
 - 👯 I’m looking to collaborate on machine learning project.
 - 💬 Ask me about animes!
 
