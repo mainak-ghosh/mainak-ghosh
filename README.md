@@ -1,8 +1,7 @@
 
 ### Hi there I'm Mainak 👋
 
-- 🔭 I’m currently working on Augmented Realily
-- 🌱 and Deep Learning integrations in AR.
+- 🔭 I’m currently working on Augmented Reality application.
 - 👯 I’m looking to collaborate on machine learning project.
 - 💬 Ask me about animes!
 
