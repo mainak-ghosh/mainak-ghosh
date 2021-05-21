@@ -1,6 +1,6 @@
 <!-- 
 ### Hi there I'm Mainak  -->
-<h1 align="center">Hi there, I'm Mainak Ghosh </h1>
+<h1 align="center">Hi there, I'm Mainak Ghosh 👋🏾</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainak-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="mainak-ghosh" /> </p> -->
 <p align="left"> <a href="https://twitter.com/mainakghosh_" target="blank"><img src="https://img.shields.io/twitter/follow/mainakghosh_?logo=twitter&style=for-the-badge" alt="mainakghosh_" /></a> </p>
 
