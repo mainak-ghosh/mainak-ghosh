@@ -1,9 +1,8 @@
 
 ### Hi there I'm Mainak 👋
 
-- 🔭 I’m currently working on an Augmented Reality application.
-- 💻 Learning React and Flutter !
-- 👯 I’m looking to collaborate on machine learning project.
+- 🔭 I’m currently working an an IIOT dashboard & Augmented Reality application.
+- 💻 Learning React, AWS, Flutter !
 - 💬 Ask me about animes!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainak-ghosh)](https://github.com/anuraghazra/github-readme-stats)
