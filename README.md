@@ -7,8 +7,9 @@
 - 🔭 I’m currently working on React, Node, AWS, C#.
 - 💻 Learning Flutter !
 - 💬 Ask me about animes!
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainak-ghosh&theme=calm&show_icons=true)
+  <div align="middle">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainak-ghosh&theme=calm&show_icons=true)
+  </div>
 <p align="middle"> <a href="https://twitter.com/mainakghosh_" target="blank"><img src="https://img.shields.io/twitter/follow/mainakghosh_?logo=twitter&style=for-the-badge" alt="mainakghosh_" /></a> </p>
 
 <!--
